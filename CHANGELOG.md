@@ -85,6 +85,12 @@ Read [the upstream Hiera documentation regarding `lookup_options`](https://puppe
 * Properly support plugin installation on 6.x series with explicit `ES_PATH_CONF`
 * set file ownership of systemd service file to root user/group
 * Fix propagating the pid_dir into OpenBSD rcscript 
+## x.x.x (Month, Day, Year)
+
+#### Features
+
+#### Fixes
+* Properly support plugin installation on 6.x series with explicit `ES_PATH_CONF`
 
 ## 5.4.3 (September 1, 2017)
 
